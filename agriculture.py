@@ -90,9 +90,9 @@ print(best_parameters)
 
 
 #using the best parameters
-best_result = gd_sr.best_score_  
-print('Best Result')
-print(best_result)
+#best_result = gd_sr.best_score_  
+#print('Best Result')
+#print(best_result)
 #using best parameters as best parameters:
 #{'bootstrap': True, 'criterion': 'gini', 'n_estimators': 100}
 Updatedclf = RandomForestClassifier(**best_parameters)
