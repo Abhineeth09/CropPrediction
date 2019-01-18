@@ -1,0 +1,75 @@
+FIELD1,S_AREA,S_IRRIGATION,S_LAND_ID,S_LAND_TYPE,S_MOISTURE,S_SOIL_TYPE,S_TEMPERATURE,S_TREE_CROP_NAME,S_TREE_CROP_TYPE,S_UNIT,S_USERID,_id
+0,3487,Yes,9886654444_L1,Agriculture,0,Laterite Soil,0.0,Banana Tree,Tree,,Shweta123,5bffcdb05a52762254ca640b
+1,3487,Yes,9886654444_L1,Agriculture,0,Laterite Soil,0.0,Lemon Tree,Tree,,Shweta123,5bffcdb05a52762254ca640b
+2,4676,Yes,8956321458_L1,Agriculture,62,Laterite Soil,29.63,Palm Tree,Tree,,Sanket@123,5c050b3602fd3219f839eb10
+3,4676,Yes,8956321458_L1,Agriculture,62,Laterite Soil,29.63,Lemon Tree,Tree,,Sanket@123,5c050b3602fd3219f839eb10
+4,4676,Yes,8956321458_L1,Agriculture,62,Laterite Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050b3602fd3219f839eb10
+5,4676,Yes,8956321458_L1,Agriculture,62,Laterite Soil,29.63,Wheat,Crop,,Sanket@123,5c050b3602fd3219f839eb10
+6,4676,Yes,8956321458_L1,Agriculture,62,Laterite Soil,29.63,Mango Tree,Tree,,Sanket@123,5c050b3602fd3219f839eb10
+7,4676,Yes,8956321458_L1,Agriculture,62,Laterite Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050b3602fd3219f839eb10
+8,4676,Yes,8956321458_L1,Agriculture,62,Laterite Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050b3602fd3219f839eb10
+9,4676,Yes,8956321458_L1,Agriculture,62,Laterite Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050b3602fd3219f839eb10
+10,4676,Yes,8956321458_L1,Agriculture,62,Laterite Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050b3602fd3219f839eb10
+11,4676,Yes,8956321458_L1,Agriculture,62,Laterite Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050b3602fd3219f839eb10
+12,4676,Yes,8956321458_L1,Agriculture,62,Laterite Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050b3602fd3219f839eb10
+13,4676,Yes,8956321458_L1,Agriculture,62,Laterite Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050b3602fd3219f839eb10
+14,567,Yes,8956321458_L2,Agriculture,62,Saline and Alkaline Soil,29.63,Palm Tree,Tree,,Sanket@123,5c050c9102fd3219f839eb11
+15,567,Yes,8956321458_L2,Agriculture,62,Saline and Alkaline Soil,29.63,Lemon Tree,Tree,,Sanket@123,5c050c9102fd3219f839eb11
+16,567,Yes,8956321458_L2,Agriculture,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050c9102fd3219f839eb11
+17,567,Yes,8956321458_L2,Agriculture,62,Saline and Alkaline Soil,29.63,Wheat,Crop,,Sanket@123,5c050c9102fd3219f839eb11
+18,567,Yes,8956321458_L2,Agriculture,62,Saline and Alkaline Soil,29.63,Mango Tree,Tree,,Sanket@123,5c050c9102fd3219f839eb11
+19,567,Yes,8956321458_L2,Agriculture,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050c9102fd3219f839eb11
+20,567,Yes,8956321458_L2,Agriculture,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050c9102fd3219f839eb11
+21,567,Yes,8956321458_L2,Agriculture,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050c9102fd3219f839eb11
+22,567,Yes,8956321458_L2,Agriculture,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050c9102fd3219f839eb11
+23,567,Yes,8956321458_L2,Agriculture,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050c9102fd3219f839eb11
+24,567,Yes,8956321458_L2,Agriculture,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050c9102fd3219f839eb11
+25,567,Yes,8956321458_L2,Agriculture,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050c9102fd3219f839eb11
+26,554,Yes,8956321458_L3,Agriculture,62,Black Soil,29.63,Palm Tree,Tree,,Sanket@123,5c050f2e02fd3219f839eb13
+27,554,Yes,8956321458_L3,Agriculture,62,Black Soil,29.63,Lemon Tree,Tree,,Sanket@123,5c050f2e02fd3219f839eb13
+28,554,Yes,8956321458_L3,Agriculture,62,Black Soil,29.63,Orange Tree,Tree,,Sanket@123,5c050f2e02fd3219f839eb13
+29,554,Yes,8956321458_L3,Agriculture,62,Black Soil,29.63,Wheat,Crop,,Sanket@123,5c050f2e02fd3219f839eb13
+30,554,Yes,8956321458_L3,Agriculture,62,Black Soil,29.63,Mango Tree,Tree,Tree,Sanket@123,5c050f2e02fd3219f839eb13
+31,554,Yes,8956321458_L3,Agriculture,62,Black Soil,29.63,Orange Tree,Tree,Tree,Sanket@123,5c050f2e02fd3219f839eb13
+32,554,Yes,8956321458_L3,Agriculture,62,Black Soil,29.63,Orange Tree,Tree,Tree,Sanket@123,5c050f2e02fd3219f839eb13
+33,554,Yes,8956321458_L3,Agriculture,62,Black Soil,29.63,Orange Tree,Tree,Tree,Sanket@123,5c050f2e02fd3219f839eb13
+34,554,Yes,8956321458_L3,Agriculture,62,Black Soil,29.63,Orange Tree,Tree,Tree,Sanket@123,5c050f2e02fd3219f839eb13
+35,554,Yes,8956321458_L3,Agriculture,62,Black Soil,29.63,Orange Tree,Tree,Tree,Sanket@123,5c050f2e02fd3219f839eb13
+36,554,Yes,8956321458_L3,Agriculture,62,Black Soil,29.63,Orange Tree,Tree,Tree,Sanket@123,5c050f2e02fd3219f839eb13
+37,554,Yes,8956321458_L3,Agriculture,62,Black Soil,29.63,Orange Tree,Tree,Tree,Sanket@123,5c050f2e02fd3219f839eb13
+38,2,Yes,9886654444_L2,Agriculture,0,Red Soil,0.0,Banana Tree,Tree,Acre,Shweta123,5c1091de415c0b3288840c75
+39,2,Yes,9886654444_L2,Agriculture,0,Red Soil,0.0,Lemon Tree,Tree,Acre,Shweta123,5c1091de415c0b3288840c75
+40,22,Yes,9886654444_L3,Forest-Land,0,Laterite Soil,0.0,Banana Tree,Tree,Guntha,Shweta123,5c109391415c0b3288840c76
+41,22,Yes,9886654444_L3,Forest-Land,0,Laterite Soil,0.0,Lemon Tree,Tree,Guntha,Shweta123,5c109391415c0b3288840c76
+42,3,Yes,9886654444_L4,Agriculture,0,Saline and Alkaline Soil,0.0,Banana Tree,Tree,Acre,Shweta123,5c109d66f435882d144a01a4
+43,3,Yes,9886654444_L4,Agriculture,0,Saline and Alkaline Soil,0.0,Lemon Tree,Tree,Acre,Shweta123,5c109d66f435882d144a01a4
+44,5,Yes,9886654444_L5,Agriculture,0,Peaty and other Organic Soil,0.0,Banana Tree,Tree,Acre,Shweta123,5c109dcee1bb8c17d0258444
+45,5,Yes,9886654444_L5,Agriculture,0,Peaty and other Organic Soil,0.0,Lemon Tree,Tree,Acre,Shweta123,5c109dcee1bb8c17d0258444
+46,20,Yes,9886654444_L6,Forest-Land,0,Acid and Desert Soil,0.0,Banana Tree,Tree,Guntha,Shweta123,5c109e7c3165a1256c66e77e
+47,20,Yes,9886654444_L6,Forest-Land,0,Acid and Desert Soil,0.0,Lemon Tree,Tree,Guntha,Shweta123,5c109e7c3165a1256c66e77e
+48,21,Yes,8956321458_L1,Agriculture,62,Red Soil,29.63,Palm Tree,Tree,Acre,Sanket@123,5c17514fd1d7b41de4025635
+49,21,Yes,8956321458_L1,Agriculture,62,Red Soil,29.63,Lemon Tree,Tree,Acre,Sanket@123,5c17514fd1d7b41de4025635
+50,21,Yes,8956321458_L1,Agriculture,62,Red Soil,29.63,Orange Tree,Tree,Acre,Sanket@123,5c17514fd1d7b41de4025635
+51,21,Yes,8956321458_L1,Agriculture,62,Red Soil,29.63,Wheat,Crop,Acre,Sanket@123,5c17514fd1d7b41de4025635
+52,21,Yes,8956321458_L1,Agriculture,62,Red Soil,29.63,Mango Tree,Tree,Acre,Sanket@123,5c17514fd1d7b41de4025635
+53,21,Yes,8956321458_L1,Agriculture,62,Red Soil,29.63,Orange Tree,Tree,Acre,Sanket@123,5c17514fd1d7b41de4025635
+54,21,Yes,8956321458_L1,Agriculture,62,Red Soil,29.63,Orange Tree,Tree,Acre,Sanket@123,5c17514fd1d7b41de4025635
+55,21,Yes,8956321458_L1,Agriculture,62,Red Soil,29.63,Orange Tree,Tree,Acre,Sanket@123,5c17514fd1d7b41de4025635
+56,21,Yes,8956321458_L1,Agriculture,62,Red Soil,29.63,Orange Tree,Tree,Acre,Sanket@123,5c17514fd1d7b41de4025635
+57,21,Yes,8956321458_L1,Agriculture,62,Red Soil,29.63,Orange Tree,Tree,Acre,Sanket@123,5c17514fd1d7b41de4025635
+58,21,Yes,8956321458_L1,Agriculture,62,Red Soil,29.63,Orange Tree,Tree,Acre,Sanket@123,5c17514fd1d7b41de4025635
+59,21,Yes,8956321458_L1,Agriculture,62,Red Soil,29.63,Orange Tree,Tree,Acre,Sanket@123,5c17514fd1d7b41de4025635
+60,24,Yes,8956321458_L2,Forest-Land,62,Saline and Alkaline Soil,29.63,Palm Tree,Tree,Guntha,Sanket@123,5c175173d1d7b41de4025636
+61,24,Yes,8956321458_L2,Forest-Land,62,Saline and Alkaline Soil,29.63,Lemon Tree,Tree,Guntha,Sanket@123,5c175173d1d7b41de4025636
+62,24,Yes,8956321458_L2,Forest-Land,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,Guntha,Sanket@123,5c175173d1d7b41de4025636
+63,24,Yes,8956321458_L2,Forest-Land,62,Saline and Alkaline Soil,29.63,Wheat,Crop,Guntha,Sanket@123,5c175173d1d7b41de4025636
+64,24,Yes,8956321458_L2,Forest-Land,62,Saline and Alkaline Soil,29.63,Mango Tree,Tree,Guntha,Sanket@123,5c175173d1d7b41de4025636
+65,24,Yes,8956321458_L2,Forest-Land,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,Guntha,Sanket@123,5c175173d1d7b41de4025636
+66,24,Yes,8956321458_L2,Forest-Land,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,Guntha,Sanket@123,5c175173d1d7b41de4025636
+67,24,Yes,8956321458_L2,Forest-Land,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,Guntha,Sanket@123,5c175173d1d7b41de4025636
+68,24,Yes,8956321458_L2,Forest-Land,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,Guntha,Sanket@123,5c175173d1d7b41de4025636
+69,24,Yes,8956321458_L2,Forest-Land,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,Guntha,Sanket@123,5c175173d1d7b41de4025636
+70,24,Yes,8956321458_L2,Forest-Land,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,Guntha,Sanket@123,5c175173d1d7b41de4025636
+71,24,Yes,8956321458_L2,Forest-Land,62,Saline and Alkaline Soil,29.63,Orange Tree,Tree,Guntha,Sanket@123,5c175173d1d7b41de4025636
+72,3,Yes,9886654444_L1,Agriculture,0,Black Soil,0.0,Banana Tree,Tree,Acre,Shweta123,5c1c80df44a41a03f8191d74
+73,3,Yes,9886654444_L1,Agriculture,0,Black Soil,0.0,Lemon Tree,Tree,Acre,Shweta123,5c1c80df44a41a03f8191d74
